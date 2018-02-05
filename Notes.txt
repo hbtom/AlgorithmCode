@@ -1,0 +1,8 @@
+Tensorflow install:
+https://github.com/williamFalcon/tensorflow-gpu-install-ubuntu-16.04 
+
+ImageNet data processing:
+https://github.com/tensorflow/models/tree/master/research/slim 
+
+ResNet on ImageNet:
+https://github.com/tensorflow/models/tree/master/official/resnet
