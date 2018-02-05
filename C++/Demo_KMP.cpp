@@ -31,7 +31,7 @@ int kmp(string s, string p) {
 }
 
 int main() {
-    vector<int> tp = getNext("ABCDABDE");
+    vector<int> tp = getNext("ABAB");
     for(int i=0; i<tp.size();i++ )
         cout << tp[i] << ',';
     cout << endl;
